@@ -1,5 +1,8 @@
 _repo: Turquois-mosaic-art-in-ancient-Mexico_67027
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67027-h/images/cover.jpg
 creator:
   author:
     agent_name: Saville, Marshall H. (Marshall Howard)
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '40301'
     url: http://www.gutenberg.org/2009/agents/40301
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67027#Turquois-mosaic-art-in-ancient-Mexico
 gutenberg_issued: '2021-12-27'
 identifiers:
   gutenberg: '67027'
